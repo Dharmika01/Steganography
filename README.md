@@ -76,11 +76,3 @@ Feel free to contribute! Here's how:
 
 **Hide your secrets. Secure your world. 🔐**
 
----
-
-### Notes:
-- **Make sure to replace the placeholders** such as `path-to-your-screenshot.png` and `your-username` with the actual values.
-- **Visuals**: A screenshot showing the tool's interface is a great touch to help others understand what they’re downloading.
-- **Contributions**: If you’re open to contributions, having a "Contributing" section encourages others to add improvements or report issues.
-- **Creative Catchphrases**: Try to keep the language engaging, as seen in the "Hide your secrets. Secure your world." tagline.
-
